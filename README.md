@@ -5,21 +5,26 @@ Each practical includes **problem statement, code implementation, and outputs**.
 
 ## 📌 Practicals List
 
-1. Introduction to ML Tools and Libraries (Iris dataset)  
-2. Data Preprocessing and Cleaning (Student Performance dataset)  
-3. Principal Component Analysis (Wine dataset)  
-4. K-Nearest Neighbors (KNN) Classifier (Iris dataset)  
-5. Naïve Bayes Classifier (SMS Spam dataset)  
-6. Decision Tree Classifier (PIMA Diabetes dataset)  
-7. Random Forest Classifier (PIMA Diabetes dataset)  
-8. Simple Linear Regression (Student Scores dataset)  
-9. Multiple Linear Regression (Housing Prices dataset)  
-10. Logistic Regression (User Purchase dataset)  
-11. K-Means Clustering (Mall Customers dataset)  
-12. Association Rule Mining (Market Basket dataset)  
-13. Artificial Neural Network (MNIST dataset)  
-14. Model Evaluation and Tuning (SVM/Random Forest)  
-15. Mini Project (choice-based: Heart Disease, Fake News, Stock Price, Weather, etc.)
+# 📑 Machine Learning Lab Practicals (Index)
+
+| Practical No. | Title / Problem Statement | Dataset Used |
+|---------------|---------------------------|--------------|
+| 1 | Introduction to ML Tools and Libraries (Basic statistics & visualization) | Iris dataset |
+| 2 | Data Preprocessing and Cleaning (Missing values, encoding, scaling) | Student Performance dataset |
+| 3 | Principal Component Analysis (PCA for dimensionality reduction) | Wine dataset |
+| 4 | K-Nearest Neighbors (KNN Classifier with decision boundaries) | Iris dataset |
+| 5 | Naïve Bayes Classifier (Spam vs Ham SMS classification) | SMS Spam Collection dataset |
+| 6 | Decision Tree Classifier | PIMA Diabetes dataset |
+| 7 | Random Forest Classifier | PIMA Diabetes dataset |
+| 8 | Simple Linear Regression | Student Scores dataset |
+| 9 | Multiple Linear Regression | Housing Prices dataset |
+| 10 | Logistic Regression | User Purchase dataset |
+| 11 | K-Means Clustering | Mall Customers dataset |
+| 12 | Association Rule Mining (Apriori / FP-Growth) | Market Basket dataset |
+| 13 | Artificial Neural Network (ANN) | MNIST Handwritten Digits dataset |
+| 14 | Model Evaluation and Tuning (Cross-validation, hyperparameter tuning) | SVM / Random Forest on suitable dataset |
+| 15 | Mini Project (choice-based: Heart Disease, Fake News, Stock Price, Weather Forecasting etc.) | Open choice |
+
 
 ---
 
